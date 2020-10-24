@@ -5,4 +5,5 @@ Another repository
 
 Welcome to my first repository!
 
-As of this moment, I am ver new to github and want to develope my coding skills more.
+As of this moment, I am very new to github and want to develope my coding skills more.
+My current skills are some java, python, decent javascript, .css, and html.
